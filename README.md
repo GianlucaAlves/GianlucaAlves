@@ -13,7 +13,6 @@
 
 - 🎓 Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC
 - 💻 Desenvolvedor Full Stack com foco em **React**, **Node.js** e **TypeScript**
-- 🤖 Entusiasta de **IA e Engenharia Agêntica**, explorando os limites das ferramentas de IA no desenvolvimento de software
 - 🌱 Atualmente aprofundando meus conhecimentos em **arquitetura de software** e **boas práticas de desenvolvimento**
 - ⚡ Gosto de criar interfaces interativas e projetos com impacto real
 
