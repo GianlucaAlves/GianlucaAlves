@@ -49,47 +49,53 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 🎯 Perfil Profissional
 
-### 🏥 [MedSystem — Agendador Lite](https://github.com/GianlucaAlves/MedSystem)
-Dashboard full stack de agendamentos médicos com autenticação JWT, autorização por roles, CRUD de pacientes e agendamentos com validação de conflito de horário.
-> `React 19` · `TypeScript` · `Node.js` · `Express 5` · `PostgreSQL` · `JWT` · `shadcn/ui`
+Desenvolvedor Full Stack com foco em construir produtos completos — da interface à API e banco de dados — com atenção em experiência do usuário, organização de código e entregas reais de ponta a ponta.
+
+### Destaques para recrutadores
+- ✅ Experiência com **aplicações full stack** (React, Node.js/Express, PostgreSQL, Prisma)
+- ✅ Prática com **arquitetura moderna** (monorepo, separação frontend/backend, APIs REST)
+- ✅ Projetos com **produto e UX** (fluxo de usuário, design responsivo, interação)
+- ✅ Vivência em **projetos acadêmicos e autorais**, com documentação e evolução contínua
 
 ---
 
-### 📅 [Agendador de Horários — Java](https://github.com/GianlucaAlves/agendador-horarios-Java)
-Sistema completo de agendamento com backend em Java Spring Boot e frontend em React + Vite. Deploy na Vercel (frontend) e Render (backend).
-> `Java 17` �� `Spring Boot` · `React` · `Tailwind CSS` · `TypeScript`
+## 📌 Projetos em Destaque (Fixados no Perfil)
+
+### 🌱 [GrowOps (Plandica)](https://github.com/GianlucaAlves/GrowOps)
+Sistema full stack de gestão de cultivo doméstico com rastreabilidade completa, diário operacional, planejamento de tarefas e arquitetura em monorepo.
+> `Next.js` · `Node.js` · `Express` · `TypeScript` · `Prisma` · `PostgreSQL`
+
+---
+
+### 🎮 [TFT Build Planner](https://github.com/GianlucaAlves/tft_build_planner)
+Aplicação para planejamento de composições no Teamfight Tactics, com estrutura separada entre cliente e servidor e organização para evolução contínua do produto.
+> `React` · `Vite` · `Node.js` · `Express` · `Prisma`
+
+---
+
+### 🎰 [MegaSena Conferidor WebApp](https://github.com/GianlucaAlves/MegaSena-Conferidor-WebApp)
+Aplicação full stack para consulta de concursos da Mega-Sena com frontend em React, API REST e persistência em PostgreSQL, executada com Docker Compose.
+> `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Docker`
+
+---
+
+### 📊 [Mega Palpites](https://github.com/GianlucaAlves/mega-sena-suggester)
+Plataforma frontend para geração de palpites, seleção manual, histórico persistido e simulação visual de sorteio com foco em experiência de uso.
+> `React` · `TypeScript` · `React Router` · `Context API` · `CSS-in-JS`
 
 ---
 
 ### 🖥️ [Portfólio Terminal Matrix](https://github.com/GianlucaAlves/portfolio)
-Portfólio interativo no estilo terminal com visual inspirado em Matrix. Navegue por comandos, explore projetos, habilidades e alterne entre português e inglês.
+Portfólio interativo em formato terminal com comandos, navegação por teclado e suporte bilíngue para apresentar projetos e habilidades de forma diferenciada.
 > `React` · `TypeScript` · `Vite`
 
 ---
 
-### 📚 [ReactLearn](https://github.com/GianlucaAlves/ReactLearn)
-Plataforma de ensino de React "Learning by Doing" com exercícios práticos e validação em tempo real. Construída com agentes de IA do início ao fim.
-> `Next.js 15` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Sandpack`
-
----
-
-### 🌿 [CannabisFY](https://github.com/GianlucaAlves/CannabisFY)
-Plataforma de conexão entre pacientes e médicos prescritores de cannabis medicinal, em conformidade com ANVISA, CFM e LGPD.
-> `React 18` · `TypeScript` · `Tailwind CSS` · `Vite`
-
----
-
-### 📝 [Sistema de Coleta e Validação de Feedback](https://github.com/GianlucaAlves/Sistema-de-Coleta-e-Validacao-Node.js-HTML-CSS-Bootstrap)
-Aplicação web para coleta de feedbacks com validação em tempo real e respostas visuais dinâmicas baseadas na avaliação do usuário.
-> `HTML5` · `CSS3` · `JavaScript` · `Bootstrap 5` · `Node.js`
-
----
-
 ### 🌐 [Website Institucional AgrirsLab — INPE](https://github.com/GianlucaAlves/Website-Institucional-AgrirsLab-INPE)
-Projeto acadêmico (ABP — DSM) desenvolvendo a home page responsiva do site institucional do INPE com metodologia ágil (Scrum).
-> `HTML` · `CSS` · `Figma`
+Projeto acadêmico em equipe para criação de website institucional responsivo do laboratório AgriRS (INPE), com foco em usabilidade, organização de conteúdo e entregas ágeis.
+> `HTML` · `CSS` · `JavaScript` · `Figma` · `Scrum`
 
 ---
 
