@@ -63,7 +63,7 @@ Desenvolvedor Full Stack com foco em construir produtos completos — da interfa
 
 ## 📌 Projetos em Destaque (Fixados no Perfil)
 
-### 🌱 [GrowOps (Plandica)](https://github.com/GianlucaAlves/GrowOps)
+### 🌱 [GrowOps](https://github.com/GianlucaAlves/GrowOps)
 Sistema full stack de gestão de cultivo doméstico com rastreabilidade completa, diário operacional, planejamento de tarefas e arquitetura em monorepo.
 > `Next.js` · `Node.js` · `Express` · `TypeScript` · `Prisma` · `PostgreSQL`
 
@@ -81,7 +81,7 @@ Aplicação full stack para consulta de concursos da Mega-Sena com frontend em R
 
 ---
 
-### 📊 [Mega Palpites](https://github.com/GianlucaAlves/mega-sena-suggester)
+### 📊 [mega-sena-suggester (Mega Palpites)](https://github.com/GianlucaAlves/mega-sena-suggester)
 Plataforma frontend para geração de palpites, seleção manual, histórico persistido e simulação visual de sorteio com foco em experiência de uso.
 > `React` · `TypeScript` · `React Router` · `Context API` · `CSS-in-JS`
 
